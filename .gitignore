@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.vite/
+.vercel/
+*.tsbuildinfo
+.env
+.env.*
+
+# Emitted by `tsc -b` from vite.config.ts — never commit
+vite.config.js
+vite.config.d.ts
